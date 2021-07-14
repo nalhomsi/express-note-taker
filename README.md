@@ -6,15 +6,13 @@ Enter notes on the right hand column and they will appear on the left hand colum
 
 # instructions
 
-User will run npm install to access express and server.js. User will then run npm start to open the host (port 3001). 
+User will run npm install to access express and server.js. User will then run npm start to open the host (port 3001). Active site is hosted at Heroku at the following URL:
 
 # Deployed application:
 
-http://localhost:3001/
+Heroku: https://piscine-croissant-81316.herokuapp.com/
 
 Github: https://nalhomsi.github.io/express-note-taker/
-
-Heroku: https://piscine-croissant-81316.herokuapp.com/
 
 Screencaps:
 
