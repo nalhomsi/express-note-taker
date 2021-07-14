@@ -16,11 +16,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deckiedevs/note-taker.git"
+    "url": "git+https://github.com/nalhomsi/express-note-taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/deckiedevs/note-taker/issues"
+    "url": "https://github.com/nalhomsi/express-note-taker/issues"
   },
-  "homepage": "https://github.com/deckiedevs/note-taker#readme"
+  "homepage": "https://github.com/nalhomsi/express-note-taker#readme"
 }
