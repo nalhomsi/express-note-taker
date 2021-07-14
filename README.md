@@ -9,6 +9,8 @@ User will run npm install to access express and server.js. User will then run np
 
 # Deployed application:
 
+http://localhost:3001/
+
 Github: https://nalhomsi.github.io/express-note-taker/
 
 Heroku: https://dashboard.heroku.com/apps/piscine-croissant-81316
