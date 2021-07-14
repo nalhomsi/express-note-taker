@@ -14,7 +14,7 @@ http://localhost:3001/
 
 Github: https://nalhomsi.github.io/express-note-taker/
 
-Heroku: https://dashboard.heroku.com/apps/piscine-croissant-81316
+Heroku: https://piscine-croissant-81316.herokuapp.com/
 
 Screencaps:
 
