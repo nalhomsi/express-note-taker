@@ -7,18 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Mila Decker",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
   },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nalhomsi/note-taker.git"
+    "url": "git+https://github.com/deckiedevs/note-taker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/nalhomsi/note-taker/issues"
+    "url": "https://github.com/deckiedevs/note-taker/issues"
   },
-  "homepage": "https://github.com/nalhomsi/note-taker#readme"
+  "homepage": "https://github.com/deckiedevs/note-taker#readme"
 }
